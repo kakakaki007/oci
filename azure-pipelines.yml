@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: oci-demo-pool
+  vmImage: oci-pipeline
 
 steps:
 
