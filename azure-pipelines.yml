@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: oci-pipeline
+  name: oci
 
 
 steps:
